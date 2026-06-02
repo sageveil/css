@@ -1,0 +1,32 @@
+/* sageveil colorscheme — Tailwind v4 theme */
+/* Generated from @sageveil/palette. Do not edit by hand. */
+/* Usage: @import "@sageveil/css/tailwind"; then use bg-sv-green, text-sv-muted, etc. */
+
+@theme {
+  --color-sv-black: #101310;
+  --color-sv-red: #9A6B6B;
+  --color-sv-green: #959C70;
+  --color-sv-yellow: #A69966;
+  --color-sv-blue: #8A8493;
+  --color-sv-magenta: #876f7f;
+  --color-sv-cyan: #7F9476;
+  --color-sv-white: #A8AFA6;
+
+  --color-sv-bright-black: #262F26;
+  --color-sv-bright-red: #B08585;
+  --color-sv-bright-green: #9C9F7F;
+  --color-sv-bright-yellow: #C6B67E;
+  --color-sv-bright-blue: #A39DAC;
+  --color-sv-bright-magenta: #947e8d;
+  --color-sv-bright-cyan: #9AAB90;
+  --color-sv-bright-white: #c3cdc0;
+
+  --color-sv-surface: #1C211E;
+  --color-sv-overlay: #212723;
+  --color-sv-highlight: #241d21;
+  --color-sv-border: #4E504C;
+  --color-sv-muted: #8A928B;
+  --color-sv-dim: #6F7B6F;
+  --color-sv-cursor: #A8AFA6;
+  --color-sv-cursor-text: #101310;
+}
