@@ -1,6 +1,6 @@
 {
   "name": "@sageveil/css",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Sageveil colorscheme as CSS custom properties, SCSS variables, a Tailwind v4 theme, and JS/TS tokens.",
   "license": "MIT",
   "type": "module",
@@ -48,7 +48,7 @@
   },
   "homepage": "https://github.com/sageveil/css",
   "dependencies": {
-    "@sageveil/palette": "^0.2.2"
+    "@sageveil/palette": "^0.2.3"
   },
   "publishConfig": {
     "access": "public"
